@@ -1,4 +1,8 @@
 # hate2music
-HTGAA20 Project
+Hate2Music Project
 
-Hate2Music
+A framework that:
+- Detects hatespeech
+- Converts into a melody
+- Richens the melody into music
+
